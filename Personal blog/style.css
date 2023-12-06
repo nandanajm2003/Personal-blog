@@ -116,6 +116,11 @@ input[type=text], select, textarea {
   text-align: center;
 }
 
+.art1full{
+  margin: 50px 0;
+  background-color: #fff;
+}
+
 .bio img {
   border-radius: 50%;
   max-width: 9%; 
